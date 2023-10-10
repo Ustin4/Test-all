@@ -1,0 +1,36 @@
+
+
+.totalDivStyle {
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: darkslategray;
+    margin: auto;
+
+
+}
+
+.divStyle {
+    width: 149px;
+    height: 29px;
+    margin: 1px 25px 10px;
+    border-radius: 10px;
+    background-color: darkseagreen;
+    align-items: center;
+}
+
+.divStyle.red {
+    color: red;
+}
+
+.ButtonStyle {
+    border-color: green;
+    background-color: grey;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.ButtonStyle:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
