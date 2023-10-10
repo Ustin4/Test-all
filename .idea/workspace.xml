@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test all/src/Awaik.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/Component/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/Component/FullInput.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/Component/input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/TodolistTest/AppTodolistTest/AppTestTodo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/exampl.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/react-app-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/yarn.lock" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="льь">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Test all" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,10 +83,35 @@
       <workItem from="1690989819021" duration="28000" />
       <workItem from="1691426733686" duration="2884000" />
       <workItem from="1692433721247" duration="7248000" />
+      <workItem from="1696922607568" duration="301000" />
     </task>
+    <task id="LOCAL-00001" summary="льь">
+      <option name="closed" value="true" />
+      <created>1696922635522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696922635522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="льь" />
+    <option name="LAST_COMMIT_MESSAGE" value="льь" />
   </component>
 </project>
