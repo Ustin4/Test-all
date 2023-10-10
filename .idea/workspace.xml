@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="tasks for littleBoySum">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/cookingTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/penalty.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.cookingTime.js">
+  <component name="RunManager" selected="Node.js.penalty.js">
     <configuration name="CodeWars1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/CodeWars1.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
@@ -87,26 +87,19 @@
     <configuration name="isSurvivor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/isSurvivor.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="persistence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/persistence.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="penalty.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/penalty.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/Test all/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="persistence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/persistence.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.penalty.js" />
         <item itemvalue="Node.js.cookingTime.js" />
         <item itemvalue="Node.js.persistence.js" />
         <item itemvalue="Node.js.isSurvivor.js" />
         <item itemvalue="Node.js.CodeWars1.js" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +115,7 @@
       <workItem from="1690989819021" duration="28000" />
       <workItem from="1691426733686" duration="2884000" />
       <workItem from="1692433721247" duration="7248000" />
-      <workItem from="1696922607568" duration="11496000" />
+      <workItem from="1696922607568" duration="14611000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -204,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696939690150</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="tasks for littleBoySum">
+      <option name="closed" value="true" />
+      <created>1696943483554</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696943483554</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
