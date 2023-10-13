@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="tasks for littleBoySum">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/penalty.js" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="tasks  SubstringTest">
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/fori.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test all/src/exampl.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test all/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +32,12 @@
     <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ustin4"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ustin4&quot;
   }
-}]]></component>
+}</component>
   <component name="GitRewordedCommitMessages">
     <option name="onto" value="79bc6b5ba11898e55d086329805a0c5cbd1c988a" />
   </component>
@@ -77,29 +79,36 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.penalty.js">
-    <configuration name="CodeWars1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/CodeWars1.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+  <component name="RunManager" selected="Node.js.fori.js">
+    <configuration name="SubstringTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/SubstringTest.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="cookingTime.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/cookingTime.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="isSurvivor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/isSurvivor.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="fori.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/fori.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="penalty.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/penalty.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="persistence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/persistence.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Test all/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.fori.js" />
+        <item itemvalue="Node.js.SubstringTest.js" />
         <item itemvalue="Node.js.penalty.js" />
         <item itemvalue="Node.js.cookingTime.js" />
-        <item itemvalue="Node.js.persistence.js" />
-        <item itemvalue="Node.js.isSurvivor.js" />
-        <item itemvalue="Node.js.CodeWars1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +124,10 @@
       <workItem from="1690989819021" duration="28000" />
       <workItem from="1691426733686" duration="2884000" />
       <workItem from="1692433721247" duration="7248000" />
-      <workItem from="1696922607568" duration="14611000" />
+      <workItem from="1696922607568" duration="15890000" />
+      <workItem from="1696956810870" duration="1658000" />
+      <workItem from="1697011252865" duration="8000" />
+      <workItem from="1697202579910" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -205,7 +217,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696943483554</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="tasks for getSmallestNumber">
+      <option name="closed" value="true" />
+      <created>1696947426729</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696947426729</updated>
+    </task>
+    <task id="LOCAL-00013" summary="tasks  SubstringTest">
+      <option name="closed" value="true" />
+      <created>1696948573777</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696948573777</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +255,8 @@
     <MESSAGE value="test comit" />
     <MESSAGE value="comit" />
     <MESSAGE value="tasks for littleBoySum" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks for littleBoySum" />
+    <MESSAGE value="tasks for getSmallestNumber" />
+    <MESSAGE value="tasks  SubstringTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks  SubstringTest" />
   </component>
 </project>
