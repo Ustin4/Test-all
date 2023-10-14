@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="exam">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/filter_list.js" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="filter_list">
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/getMiddle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.filter_list.js">
+  <component name="RunManager" selected="Node.js.getMiddle.js">
     <configuration name="SubstringTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/SubstringTest.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
@@ -88,7 +87,7 @@
     <configuration name="fori.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/fori.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="penalty.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/penalty.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="getMiddle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/getMiddle.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -103,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.getMiddle.js" />
         <item itemvalue="Node.js.filter_list.js" />
         <item itemvalue="Node.js.fori.js" />
         <item itemvalue="npm.start" />
         <item itemvalue="Node.js.SubstringTest.js" />
-        <item itemvalue="Node.js.penalty.js" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +127,7 @@
       <workItem from="1697011252865" duration="8000" />
       <workItem from="1697202579910" duration="3844000" />
       <workItem from="1697230551641" duration="2060000" />
-      <workItem from="1697287501200" duration="306000" />
+      <workItem from="1697287501200" duration="1903000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -242,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697230584391</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="filter_list">
+      <option name="closed" value="true" />
+      <created>1697287936184</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697287936184</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +274,7 @@
     <MESSAGE value="tasks for getSmallestNumber" />
     <MESSAGE value="tasks  SubstringTest" />
     <MESSAGE value="exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam" />
+    <MESSAGE value="filter_list" />
+    <option name="LAST_COMMIT_MESSAGE" value="filter_list" />
   </component>
 </project>
