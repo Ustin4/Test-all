@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="getMiddle.js">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/palindrome.js" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="palindrome.js">
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/figureOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/solve.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all" beforeDir="false" afterPath="$PROJECT_DIR$/Test all" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +78,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.palindrome.js">
-    <configuration name="filter_list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/filter_list.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+  <component name="RunManager" selected="Node.js.solve.js">
+    <configuration name="figureOut.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/figureOut.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="fori.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/fori.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="filter_list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/filter_list.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="getMiddle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/getMiddle.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
@@ -91,23 +91,16 @@
     <configuration name="palindrome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/palindrome.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/Test all/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="solve.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/solve.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.solve.js" />
+        <item itemvalue="Node.js.figureOut.js" />
         <item itemvalue="Node.js.palindrome.js" />
         <item itemvalue="Node.js.getMiddle.js" />
         <item itemvalue="Node.js.filter_list.js" />
-        <item itemvalue="Node.js.fori.js" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +121,7 @@
       <workItem from="1697011252865" duration="8000" />
       <workItem from="1697202579910" duration="3844000" />
       <workItem from="1697230551641" duration="2060000" />
-      <workItem from="1697287501200" duration="3885000" />
+      <workItem from="1697287501200" duration="5053000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -258,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697289459578</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="palindrome.js">
+      <option name="closed" value="true" />
+      <created>1697292035616</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697292035616</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +286,7 @@
     <MESSAGE value="exam" />
     <MESSAGE value="filter_list" />
     <MESSAGE value="getMiddle.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="getMiddle.js" />
+    <MESSAGE value="palindrome.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrome.js" />
   </component>
 </project>
