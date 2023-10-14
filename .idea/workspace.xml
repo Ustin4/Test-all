@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="filter_list">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/getMiddle.js" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="getMiddle.js">
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/palindrome.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test all" beforeDir="false" afterPath="$PROJECT_DIR$/Test all" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +78,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.getMiddle.js">
-    <configuration name="SubstringTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/SubstringTest.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.palindrome.js">
     <configuration name="filter_list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/filter_list.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
@@ -88,6 +86,9 @@
       <method v="2" />
     </configuration>
     <configuration name="getMiddle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/getMiddle.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/palindrome.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.palindrome.js" />
         <item itemvalue="Node.js.getMiddle.js" />
         <item itemvalue="Node.js.filter_list.js" />
         <item itemvalue="Node.js.fori.js" />
         <item itemvalue="npm.start" />
-        <item itemvalue="Node.js.SubstringTest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +128,7 @@
       <workItem from="1697011252865" duration="8000" />
       <workItem from="1697202579910" duration="3844000" />
       <workItem from="1697230551641" duration="2060000" />
-      <workItem from="1697287501200" duration="1903000" />
+      <workItem from="1697287501200" duration="3885000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -249,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697287936184</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="getMiddle.js">
+      <option name="closed" value="true" />
+      <created>1697289459578</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697289459578</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +284,7 @@
     <MESSAGE value="tasks  SubstringTest" />
     <MESSAGE value="exam" />
     <MESSAGE value="filter_list" />
-    <option name="LAST_COMMIT_MESSAGE" value="filter_list" />
+    <MESSAGE value="getMiddle.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="getMiddle.js" />
   </component>
 </project>
