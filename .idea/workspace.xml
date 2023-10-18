@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="solve.js">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/factors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/survivor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="reduceFraction.js.js">
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/decrypt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/likes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,17 +78,17 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.factors.js">
+  <component name="RunManager" selected="Node.js.likes.js">
+    <configuration name="decrypt.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/decrypt.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+      <method v="2" />
+    </configuration>
     <configuration name="factors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/factors.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="figureOut.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/figureOut.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="likes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/likes.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="palindrome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/palindrome.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
-      <method v="2" />
-    </configuration>
-    <configuration name="solve.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/solve.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="reduceFraction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/reduceFraction.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="survivor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/survivor.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
@@ -97,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.likes.js" />
+        <item itemvalue="Node.js.decrypt.js" />
+        <item itemvalue="Node.js.reduceFraction.js" />
         <item itemvalue="Node.js.factors.js" />
         <item itemvalue="Node.js.survivor.js" />
-        <item itemvalue="Node.js.solve.js" />
-        <item itemvalue="Node.js.figureOut.js" />
-        <item itemvalue="Node.js.palindrome.js" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +122,7 @@
       <workItem from="1697202579910" duration="3844000" />
       <workItem from="1697230551641" duration="2060000" />
       <workItem from="1697287501200" duration="5195000" />
-      <workItem from="1697639090594" duration="1486000" />
+      <workItem from="1697639090594" duration="6453000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -269,7 +268,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697300182258</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="factors.js">
+      <option name="closed" value="true" />
+      <created>1697642747102</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697642747102</updated>
+    </task>
+    <task id="LOCAL-00020" summary="reduceFraction.js.js">
+      <option name="closed" value="true" />
+      <created>1697649283995</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697649283995</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +313,8 @@
     <MESSAGE value="getMiddle.js" />
     <MESSAGE value="palindrome.js" />
     <MESSAGE value="solve.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve.js" />
+    <MESSAGE value="factors.js" />
+    <MESSAGE value="reduceFraction.js.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="reduceFraction.js.js" />
   </component>
 </project>
