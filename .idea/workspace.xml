@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="palindrome.js">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/figureOut.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/solve.js" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="solve.js">
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/factors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/survivor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,14 +79,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.solve.js">
+  <component name="RunManager" selected="Node.js.factors.js">
+    <configuration name="factors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/factors.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+      <method v="2" />
+    </configuration>
     <configuration name="figureOut.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/figureOut.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
-      <method v="2" />
-    </configuration>
-    <configuration name="filter_list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/filter_list.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
-      <method v="2" />
-    </configuration>
-    <configuration name="getMiddle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/getMiddle.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="palindrome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/palindrome.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
@@ -94,13 +92,16 @@
     <configuration name="solve.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/solve.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
+    <configuration name="survivor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/survivor.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.factors.js" />
+        <item itemvalue="Node.js.survivor.js" />
         <item itemvalue="Node.js.solve.js" />
         <item itemvalue="Node.js.figureOut.js" />
         <item itemvalue="Node.js.palindrome.js" />
-        <item itemvalue="Node.js.getMiddle.js" />
-        <item itemvalue="Node.js.filter_list.js" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +122,8 @@
       <workItem from="1697011252865" duration="8000" />
       <workItem from="1697202579910" duration="3844000" />
       <workItem from="1697230551641" duration="2060000" />
-      <workItem from="1697287501200" duration="5053000" />
+      <workItem from="1697287501200" duration="5195000" />
+      <workItem from="1697639090594" duration="1486000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -259,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697292035616</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="solve.js">
+      <option name="closed" value="true" />
+      <created>1697300182258</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697300182258</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +297,7 @@
     <MESSAGE value="filter_list" />
     <MESSAGE value="getMiddle.js" />
     <MESSAGE value="palindrome.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome.js" />
+    <MESSAGE value="solve.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve.js" />
   </component>
 </project>
