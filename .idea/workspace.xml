@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="reduceFraction.js.js">
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/decrypt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test all/src/CodeWars/likes.js" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="sortAnimal.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test all/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main2&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ITProject/test all&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ITProject/Cards&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,11 +77,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.likes.js">
+  <component name="RunManager" selected="Node.js.sortAnimal.js">
     <configuration name="decrypt.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/decrypt.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
-      <method v="2" />
-    </configuration>
-    <configuration name="factors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/factors.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
     <configuration name="likes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/likes.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
@@ -91,16 +87,26 @@
     <configuration name="reduceFraction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/reduceFraction.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
     </configuration>
-    <configuration name="survivor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/survivor.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+    <configuration name="sortAnimal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/sortAnimal.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Test all/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.sortAnimal.js" />
         <item itemvalue="Node.js.likes.js" />
         <item itemvalue="Node.js.decrypt.js" />
         <item itemvalue="Node.js.reduceFraction.js" />
-        <item itemvalue="Node.js.factors.js" />
-        <item itemvalue="Node.js.survivor.js" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +128,7 @@
       <workItem from="1697202579910" duration="3844000" />
       <workItem from="1697230551641" duration="2060000" />
       <workItem from="1697287501200" duration="5195000" />
-      <workItem from="1697639090594" duration="6453000" />
+      <workItem from="1697639090594" duration="11631000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -284,7 +290,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697649283995</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="likes.js.js">
+      <option name="closed" value="true" />
+      <created>1697653513813</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697653513813</updated>
+    </task>
+    <task id="LOCAL-00022" summary="sortAnimal.js">
+      <option name="closed" value="true" />
+      <created>1697655497918</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697655497918</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +337,8 @@
     <MESSAGE value="solve.js" />
     <MESSAGE value="factors.js" />
     <MESSAGE value="reduceFraction.js.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="reduceFraction.js.js" />
+    <MESSAGE value="likes.js.js" />
+    <MESSAGE value="sortAnimal.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="sortAnimal.js" />
   </component>
 </project>
