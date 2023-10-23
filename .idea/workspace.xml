@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="sortAnimal.js">
-      <change afterPath="$PROJECT_DIR$/Test all/src/EditableSpan.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test all/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test all/src/index.tsx" afterDir="false" />
+    <list default="true" id="56cc553f-9928-4db9-af6f-9626674e0d49" name="Changes" comment="EditableSpan.tsx">
+      <change beforePath="$PROJECT_DIR$/Test all" beforeDir="false" afterPath="$PROJECT_DIR$/Test all" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,22 +60,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main2&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ITProject/Cards&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\ITProject\\test all\\Test all\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main2",
+    "last_opened_file_path": "D:/ITProject/Cards",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "D:\\ITProject\\test all\\Test all\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Node.js.sortAnimal.js">
     <configuration name="decrypt.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test all/src/CodeWars/decrypt.js" working-dir="$PROJECT_DIR$/Test all/src/CodeWars">
       <method v="2" />
@@ -132,7 +130,7 @@
       <workItem from="1697287501200" duration="5195000" />
       <workItem from="1697639090594" duration="11631000" />
       <workItem from="1697741473396" duration="107000" />
-      <workItem from="1698054704412" duration="2345000" />
+      <workItem from="1698054704412" duration="2418000" />
     </task>
     <task id="LOCAL-00001" summary="льь">
       <option name="closed" value="true" />
@@ -318,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697741557716</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="EditableSpan.tsx">
+      <option name="closed" value="true" />
+      <created>1698077282206</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698077282206</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +357,7 @@
     <MESSAGE value="reduceFraction.js.js" />
     <MESSAGE value="likes.js.js" />
     <MESSAGE value="sortAnimal.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="sortAnimal.js" />
+    <MESSAGE value="EditableSpan.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="EditableSpan.tsx" />
   </component>
 </project>
